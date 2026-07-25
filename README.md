@@ -18,7 +18,7 @@ A blazingly fast macOS application switcher extension for [Raycast](https://rayc
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/stasmarkin/raycast-instant-app-switcher-extension.git
+git clone https://github.com/aibarraza/raycast-instant-app-switcher-extension.git
 cd raycast-instant-app-switcher-extension
 ```
 

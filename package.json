@@ -4,11 +4,11 @@
   "title": "Instant App Switcher",
   "description": "Lightning-fast macOS application switcher with customizable hotkeys, intelligent sorting, and instant switching",
   "icon": "command-icon.png",
-  "author": "stasmarkin",
+  "author": "aibarraza",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stasmarkin/raycast-instant-app-switcher-extension.git"
+    "url": "https://github.com/aibarraza/raycast-instant-app-switcher-extension.git"
   },
   "keywords": [
     "raycast",
